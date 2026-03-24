@@ -1,6 +1,0 @@
-@FiTrack.Api_HostAddress = http://localhost:5016
-
-GET {{FiTrack.Api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
